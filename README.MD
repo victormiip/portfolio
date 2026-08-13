@@ -1,1 +1,2 @@
-Projeto da DIO, para a criação de um portifólio. 
+Projeto para a criação de um portifólio. 
+Usando HTML, CSS e Javascript, com integração a uma API.
