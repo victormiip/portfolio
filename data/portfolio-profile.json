@@ -1,0 +1,104 @@
+{
+  "name": "Victor Hugo",
+  "photo": "",
+  "pessoa": "Analista de Marketing",
+  "gps": "Rio de Janeiro - RJ",
+  "whatsapp": "(21) 98203-9402",
+  "email": "victorhugo.frcosta@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Javascript",
+        "logo": "./icones/js.svg"
+      },
+      {
+        "name": "CSS",
+        "logo": "./icones/css.svg"
+      },
+      {
+        "name": "HTML",
+        "logo": "./icones/html.svg"
+      },
+      {
+        "name": "FIGMA",
+        "logo": "./icones/figma.svg"
+      },
+      {
+        "name": "CANVA",
+        "logo": "./icones/canva.svg"
+      },
+      {
+        "name": "PHOTOSHOP",
+        "logo": "./icones/ps.svg"
+      },
+
+       {
+        "name": "WORDPRESS",
+        "logo": "./icones/wordpress.svg"
+      },
+
+       {
+        "name": "TWICE",
+        "logo": "./icones/TWICE.svg"
+      }
+      
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "k-pop",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Avançado)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+
+  {
+      "name": "Meu melhor projetox",
+      "url": "https://www.youtube.com/watch?v=3ymwOvzhwHs",
+      "github": false
+    },
+
+
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "xp": [
+    {
+      "name": "Arquiteto de software / S3 BANK",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    },
+    {
+      "name": "Software Engineering Lead / DIO",
+      "period": "2021 - 2022",
+      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+    },
+    {
+      "name": "CEO / Brain Machine",
+      "period": "2016 - 2021",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+    }
+  ]
+}
+
+
+
+
+
+
+
+

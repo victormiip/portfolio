@@ -1,0 +1,31 @@
+.idiomas{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap:wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+.idiomas li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-right: 1rem;
+    /* padding: 1rem; */
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.idiomas li::before{
+    content: "";
+    display: inline-block;
+    width: 1.5rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(../icones/check.svg);
+    /* margin-right: .5rem; */
+}

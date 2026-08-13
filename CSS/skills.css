@@ -1,0 +1,57 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 100%;
+}
+
+/* 🟢 Habilidades Profissionais (Ícones) */
+.skills .ferramentas ul {
+    display: grid;
+    /* Alterado para 3 colunas (ajuste para 4 se preferir mais espalhado) */
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 1.2rem;
+    justify-items: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Cria uma caixa invisível com tamanho fixo para alinhar todos os logos */
+.skills .ferramentas ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+}
+
+.skills .ferramentas ul li img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+/* 🟢 Habilidades Pessoais */
+.skills .personal ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem 1.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.skills .personal ul li {
+    padding: 0.5rem 0;
+}
+
+/* 🟢 Responsividade (Desktop) */
+@media only screen and (min-width: 768px) {
+    .skills {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+}
