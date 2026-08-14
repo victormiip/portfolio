@@ -34,17 +34,13 @@
       {
         "name": "WORDPRESS",
         "logo": "./icones/wordpress.svg"
-      },
-      {
-        "name": "twice",
-        "logo": "./icones/twice.svg"
       }
     ],
     "softSkills": [
       "Empatia",
       "Trabalho em equipe",
       "Flexibilidade",
-      "k-pop",
+      "Adaptalidade",
       "Organização"
     ]
   },
@@ -54,11 +50,6 @@
     "Espanhol (intermediário)"
   ],
   "portfolio": [
-    {
-      "name": "Meu melhor projetox",
-      "url": "https://www.youtube.com/watch?v=3ymwOvzhwHs",
-      "github": false
-    },
     {
       "name": "Criação de uma Pokedex",
       "url": "https://github.com/victormiip/portfolio",
