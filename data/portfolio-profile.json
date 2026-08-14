@@ -31,17 +31,14 @@
         "name": "PHOTOSHOP",
         "logo": "./icones/ps.svg"
       },
-
-       {
+      {
         "name": "WORDPRESS",
         "logo": "./icones/wordpress.svg"
       },
-
-       {
+      {
         "name": "twice",
         "logo": "./icones/twice.svg"
       }
-      
     ],
     "softSkills": [
       "Empatia",
@@ -57,22 +54,24 @@
     "Espanhol (intermediário)"
   ],
   "portfolio": [
-
-  {
+    {
       "name": "Meu melhor projetox",
       "url": "https://www.youtube.com/watch?v=3ymwOvzhwHs",
       "github": false
     },
-
-
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de uma Pokedex",
+      "url": "https://github.com/victormiip/portfolio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criação de wireframe para um futuro site ",
+      "url": "https://github.com/victormiip/Desafio-Wireframe",
+      "github": true
+    },
+    {
+      "name": "Criação de uma página de portfolio",
+      "url": "https://github.com/victormiip/pokex-",
       "github": true
     }
   ],
@@ -89,11 +88,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
